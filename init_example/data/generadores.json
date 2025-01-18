@@ -17,7 +17,7 @@
 		"ratio_inf_sup": 0.5,
 		"gen_sup": 2,
 		"gen_inf": 1,
-		"coste_bombeo": 1
+		"coste_bombeo": 1,
 		"min_operativa": 0,
 		"coste": 12
 	}, 
