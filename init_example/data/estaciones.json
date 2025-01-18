@@ -1,0 +1,878 @@
+[
+    {
+        "address":"42 South Street",
+        "capacity":2
+    },
+    {
+        "address":"49 Beekman Street",
+        "capacity":1
+    },
+    {
+        "address":"100 Duane Street",
+        "capacity":4
+    },
+    {
+        "address":"14 N. Moore Street",
+        "capacity":1
+    },
+    {
+        "address":"75 Canal Street",
+        "capacity":2
+    },
+    {
+        "address":"25 Pitt Street",
+        "capacity":3
+    },
+    {
+        "address":"222 East 2 Street",
+        "capacity":2
+    },
+    {
+        "address":"340 East 14 Street",
+        "capacity":1
+    },
+    {
+        "address":"253 Lafayette Street",
+        "capacity":2
+    },
+    {
+        "address":"42 Great Jones Street",
+        "capacity":2
+    },
+    {
+        "address":"108 East 13 Street",
+        "capacity":2
+    },
+    {
+        "address":"132 West 10 Street",
+        "capacity":1
+    },
+    {
+        "address":"440 West 38th Street",
+        "capacity":2
+    },
+    {
+        "address":"220 West 37 Street",
+        "capacity":1
+    },
+    {
+        "address":"150 West 19 Street",
+        "capacity":3
+    },
+    {
+        "address":"142 West 31 Street",
+        "capacity":2
+    },
+    {
+        "address":"14 East 18 Street",
+        "capacity":1
+    },
+    {
+        "address":"234 East 29 Street",
+        "capacity":2
+    },
+    {
+        "address":"238 East 40 Street",
+        "capacity":1
+    },
+    {
+        "address":"782 Eighth Avenue",
+        "capacity":3
+    },
+    {
+        "address":"215 W 58th Street",
+        "capacity":1
+    },
+    {
+        "address":"131 Amsterdam Avenue",
+        "capacity":2
+    },
+    {
+        "address":"207 West 77th Street",
+        "capacity":2
+    },
+    {
+        "address":"120 West 83 Street",
+        "capacity":1
+    },
+    {
+        "address":"165 East 51 Street",
+        "capacity":3
+    },
+    {
+        "address":"221 East 75 Street",
+        "capacity":1
+    },
+    {
+        "address":"159 East 85 Street",
+        "capacity":3
+    },
+    {
+        "address":"1367 Fifth Avenue",
+        "capacity":2
+    },
+    {
+        "address":"1836 Third Avenue",
+        "capacity":2
+    },
+    {
+        "address":"242 East 111 Street",
+        "capacity":1
+    },
+    {
+        "address":"2282 Third Avenue",
+        "capacity":3
+    },
+    {
+        "address":"145 West 100th St.",
+        "capacity":3
+    },
+    {
+        "address":"500 West 113 Street",
+        "capacity":1
+    },
+    {
+        "address":"111 West 133 Street",
+        "capacity":2
+    },
+    {
+        "address":"415 West 125 Street",
+        "capacity":2
+    },
+    {
+        "address":"513 West 161 Street",
+        "capacity":2
+    },
+    {
+        "address":"29 Vermilyea Avenue",
+        "capacity":2
+    },
+    {
+        "address":"363 Broome Street",
+        "capacity":1
+    },
+    {
+        "address":"530 West 43 Street",
+        "capacity":1
+    },
+    {
+        "address":"157 E 67th St",
+        "capacity":2
+    },
+    {
+        "address":"248 West 143 Street",
+        "capacity":3
+    },
+    {
+        "address":"503 West 139 Street",
+        "capacity":2
+    },
+    {
+        "address":"515 West 181 Street",
+        "capacity":3
+    },
+    {
+        "address":"124 Liberty Street",
+        "capacity":2
+    },
+    {
+        "address":"33 West 43 Street",
+        "capacity":1
+    },
+    {
+        "address":"227 Sixth Avenue",
+        "capacity":3
+    },
+    {
+        "address":"518 West 170 Street",
+        "capacity":1
+    },
+    {
+        "address":"20 Rear Bloomfield Street",
+        "capacity":1
+    },
+    {
+        "address":"341 East 143 Street",
+        "capacity":3
+    },
+    {
+        "address":"330 East 150th Street",
+        "capacity":1
+    },
+    {
+        "address":"720 Melrose Ave.",
+        "capacity":3
+    },
+    {
+        "address":"1155 Washington Ave.",
+        "capacity":3
+    },
+    {
+        "address":"1160 Ogden Ave.",
+        "capacity":2
+    },
+    {
+        "address":"618 East 138 Street",
+        "capacity":2
+    },
+    {
+        "address":"1226 Seneca Ave.",
+        "capacity":3
+    },
+    {
+        "address":"1781 Monroe Ave.",
+        "capacity":1
+    },
+    {
+        "address":"1901 Sedgwick Ave.",
+        "capacity":2
+    },
+    {
+        "address":"460 Cross Bronx Expressway",
+        "capacity":2
+    },
+    {
+        "address":"453 E 176 Street",
+        "capacity":1
+    },
+    {
+        "address":"1215 Intervale Ave.",
+        "capacity":2
+    },
+    {
+        "address":"2417 Webster Ave.",
+        "capacity":3
+    },
+    {
+        "address":"925 East Tremont Ave.",
+        "capacity":3
+    },
+    {
+        "address":"2928 Briggs Ave.",
+        "capacity":3
+    },
+    {
+        "address":"1689 Story Ave.",
+        "capacity":2
+    },
+    {
+        "address":"1843 White Plains Rd.",
+        "capacity":2
+    },
+    {
+        "address":"1518 Williamsbridge Road",
+        "capacity":2
+    },
+    {
+        "address":"1454 Astor Ave.",
+        "capacity":1
+    },
+    {
+        "address":"3431 White Plains Road",
+        "capacity":2
+    },
+    {
+        "address":"3446 Eastchester Road",
+        "capacity":2
+    },
+    {
+        "address":"755 East 233 Street",
+        "capacity":3
+    },
+    {
+        "address":"21 Asch Loop",
+        "capacity":2
+    },
+    {
+        "address":"2924 Bruckner Blvd.",
+        "capacity":2
+    },
+    {
+        "address":"3929 East Tremont Ave.",
+        "capacity":1
+    },
+    {
+        "address":"169 Schofield Street",
+        "capacity":2
+    },
+    {
+        "address":"4550 Henry Hudson Parkway E.",
+        "capacity":2
+    },
+    {
+        "address":"2225 Belmont Ave.",
+        "capacity":2
+    },
+    {
+        "address":"3025 Bailey Ave.",
+        "capacity":2
+    },
+    {
+        "address":"655 Prospect Ave.",
+        "capacity":2
+    },
+    {
+        "address":"1214 Castle Hill Ave.",
+        "capacity":2
+    },
+    {
+        "address":"1259 Morris Ave.",
+        "capacity":3
+    },
+    {
+        "address":"1655 Washington Ave",
+        "capacity":1
+    },
+    {
+        "address":"2175 Walton Ave.",
+        "capacity":3
+    },
+    {
+        "address":"172 Tillary Street",
+        "capacity":5
+    },
+    {
+        "address":"409 State Street",
+        "capacity":1
+    },
+    {
+        "address":"74 Middagh Street",
+        "capacity":2
+    },
+    {
+        "address":"274 Hicks Street",
+        "capacity":1
+    },
+    {
+        "address":"252 Lorraine St.",
+        "capacity":2
+    },
+    {
+        "address":"31 Richards Street",
+        "capacity":3
+    },
+    {
+        "address":"436 39th St",
+        "capacity":1
+    },
+    {
+        "address":"788 Union Street",
+        "capacity":1
+    },
+    {
+        "address":"395 4th Ave.",
+        "capacity":1
+    },
+    {
+        "address":"530 11th Street",
+        "capacity":2
+    },
+    {
+        "address":"494 Dean Street",
+        "capacity":2
+    },
+    {
+        "address":"489 Saint John's Place",
+        "capacity":2
+    },
+    {
+        "address":"1352 Saint John's Place",
+        "capacity":3
+    },
+    {
+        "address":"423 Ralph Ave.",
+        "capacity":1
+    },
+    {
+        "address":"25 Rockaway Ave.",
+        "capacity":2
+    },
+    {
+        "address":"940 Dekalb Avenue",
+        "capacity":1
+    },
+    {
+        "address":"32 Ralph Ave.",
+        "capacity":2
+    },
+    {
+        "address":"495 Hancock Street",
+        "capacity":2
+    },
+    {
+        "address":"701 Park Avenue",
+        "capacity":1
+    },
+    {
+        "address":"206 Monroe Street",
+        "capacity":2
+    },
+    {
+        "address":"850 Bedford Ave.",
+        "capacity":1
+    },
+    {
+        "address":"160 Carlton Ave.",
+        "capacity":1
+    },
+    {
+        "address":"26 Hooper Street",
+        "capacity":2
+    },
+    {
+        "address":"161 South 2nd Street",
+        "capacity":2
+    },
+    {
+        "address":"187 Union Ave.",
+        "capacity":3
+    },
+    {
+        "address":"205 Greenpoint Ave.",
+        "capacity":2
+    },
+    {
+        "address":"75 Richardson Street",
+        "capacity":2
+    },
+    {
+        "address":"1201 Grand Street",
+        "capacity":1
+    },
+    {
+        "address":"43 Morgan Ave.",
+        "capacity":1
+    },
+    {
+        "address":"650 Hart Street",
+        "capacity":1
+    },
+    {
+        "address":"392 Himrod Street",
+        "capacity":3
+    },
+    {
+        "address":"582 Knickerbocker Ave.",
+        "capacity":2
+    },
+    {
+        "address":"617 Central Ave.",
+        "capacity":1
+    },
+    {
+        "address":"107 Watkins Street",
+        "capacity":3
+    },
+    {
+        "address":"885 Howard Ave.",
+        "capacity":2
+    },
+    {
+        "address":"165 Bradford st.",
+        "capacity":2
+    },
+    {
+        "address":"480 Sheffield Ave.",
+        "capacity":2
+    },
+    {
+        "address":"998 Liberty Ave.",
+        "capacity":1
+    },
+    {
+        "address":"799 Lincoln Ave.",
+        "capacity":3
+    },
+    {
+        "address":"5105 Snyder Ave.",
+        "capacity":2
+    },
+    {
+        "address":"491 Rogers Ave.",
+        "capacity":2
+    },
+    {
+        "address":"2900 Snyder Ave.",
+        "capacity":2
+    },
+    {
+        "address":"1210 Cortelyou Road",
+        "capacity":2
+    },
+    {
+        "address":"1367 Rogers Ave.",
+        "capacity":2
+    },
+    {
+        "address":"1307 Prospect Ave.",
+        "capacity":2
+    },
+    {
+        "address":"4210 12th Ave.",
+        "capacity":2
+    },
+    {
+        "address":"1336 60th Street",
+        "capacity":1
+    },
+    {
+        "address":"6630 3rd Avenue",
+        "capacity":2
+    },
+    {
+        "address":"9219 5th Ave.",
+        "capacity":1
+    },
+    {
+        "address":"1157 79th St.",
+        "capacity":2
+    },
+    {
+        "address":"8653 18th Ave.",
+        "capacity":3
+    },
+    {
+        "address":"126 Foster Ave.",
+        "capacity":1
+    },
+    {
+        "address":"2312 65th Street",
+        "capacity":2
+    },
+    {
+        "address":"1635 E. 14th Street",
+        "capacity":3
+    },
+    {
+        "address":"2429 86th Street",
+        "capacity":1
+    },
+    {
+        "address":"2510 Neptune Ave.",
+        "capacity":2
+    },
+    {
+        "address":"901 Avenue U",
+        "capacity":2
+    },
+    {
+        "address":"2929 W. 8th Street",
+        "capacity":3
+    },
+    {
+        "address":"1361 Rockaway Parkway",
+        "capacity":3
+    },
+    {
+        "address":"6405 Avenue N",
+        "capacity":1
+    },
+    {
+        "address":"1851 E. 48 Street",
+        "capacity":2
+    },
+    {
+        "address":"2732 E. 11th Street",
+        "capacity":2
+    },
+    {
+        "address":"2165 Gerritsen Ave.",
+        "capacity":1
+    },
+    {
+        "address":"Brooklyn Navy Yard Building 292",
+        "capacity":2
+    },
+    {
+        "address":"5113 4th Avenue",
+        "capacity":3
+    },
+    {
+        "address":"1815 Sterling Place",
+        "capacity":1
+    },
+    {
+        "address":"10-40 47th Ave.",
+        "capacity":2
+    },
+    {
+        "address":"41-24 51st Street",
+        "capacity":2
+    },
+    {
+        "address":"33-51 Greenpoint Avenue",
+        "capacity":3
+    },
+    {
+        "address":"11-15 37th Avenue",
+        "capacity":1
+    },
+    {
+        "address":"37-20 29th Street",
+        "capacity":1
+    },
+    {
+        "address":"30-89 21st Street",
+        "capacity":1
+    },
+    {
+        "address":"42-06, 42-08 Astoria Blvd. South",
+        "capacity":2
+    },
+    {
+        "address":"22-63 35th St.",
+        "capacity":2
+    },
+    {
+        "address":"81-17 Northern Blvd.",
+        "capacity":2
+    },
+    {
+        "address":"97-28 43rd Avenue",
+        "capacity":2
+    },
+    {
+        "address":"27-12 Kearney Street",
+        "capacity":1
+    },
+    {
+        "address":"108-01 Horace Harding Exp.",
+        "capacity":2
+    },
+    {
+        "address":"64-18 Queens Blvd.",
+        "capacity":2
+    },
+    {
+        "address":"56-29 68th Street",
+        "capacity":1
+    },
+    {
+        "address":"86-53 Grand Avenue",
+        "capacity":3
+    },
+    {
+        "address":"111-02 Queens Blvd.",
+        "capacity":2
+    },
+    {
+        "address":"66-44 Myrtle Avenue",
+        "capacity":2
+    },
+    {
+        "address":"78-11 67th Road",
+        "capacity":1
+    },
+    {
+        "address":"119-11 14th Road",
+        "capacity":2
+    },
+    {
+        "address":"12-49 149th Street",
+        "capacity":2
+    },
+    {
+        "address":"40-18 Union Street",
+        "capacity":2
+    },
+    {
+        "address":"41-20 Murray Street",
+        "capacity":2
+    },
+    {
+        "address":"36-18 Francis Lewis Blvd.",
+        "capacity":2
+    },
+    {
+        "address":"40-18 214th Place",
+        "capacity":1
+    },
+    {
+        "address":"159-06 Union Turnpike",
+        "capacity":2
+    },
+    {
+        "address":"61-20 Utopia Parkway",
+        "capacity":2
+    },
+    {
+        "address":"64-04 Springfield Blvd.",
+        "capacity":3
+    },
+    {
+        "address":"44-01 244th Street",
+        "capacity":2
+    },
+    {
+        "address":"254-20 Union Turnpike",
+        "capacity":1
+    },
+    {
+        "address":"89-40 87th Street",
+        "capacity":1
+    },
+    {
+        "address":"103-17 98th Street",
+        "capacity":2
+    },
+    {
+        "address":"101-02 Jamaica Avenue",
+        "capacity":2
+    },
+    {
+        "address":"91-45 121st Street",
+        "capacity":2
+    },
+    {
+        "address":"107-12 Lefferts Blvd.",
+        "capacity":2
+    },
+    {
+        "address":"153-11 Hillside Avenue",
+        "capacity":3
+    },
+    {
+        "address":"104-12 Princeton Street",
+        "capacity":2
+    },
+    {
+        "address":"111-36 Merrick Blvd.",
+        "capacity":2
+    },
+    {
+        "address":"91-04 197th Street",
+        "capacity":2
+    },
+    {
+        "address":"218-44 97th Avenue",
+        "capacity":2
+    },
+    {
+        "address":"143-15 Rockaway Blvd.",
+        "capacity":2
+    },
+    {
+        "address":"117-11 196th Street",
+        "capacity":3
+    },
+    {
+        "address":"145-50 Springfield Blvd.",
+        "capacity":2
+    },
+    {
+        "address":"142-04 Brookville Blvd.",
+        "capacity":1
+    },
+    {
+        "address":"158-57 Cross Bay Blvd.",
+        "capacity":2
+    },
+    {
+        "address":"257 Beach 116th Street",
+        "capacity":2
+    },
+    {
+        "address":"402 B. 169 Street",
+        "capacity":1
+    },
+    {
+        "address":"92-20 Rockaway Beach Blvd.",
+        "capacity":1
+    },
+    {
+        "address":"56-07 Metropolitan Avenue",
+        "capacity":2
+    },
+    {
+        "address":"16-15, 16-17, 16-19 Central Ave.",
+        "capacity":3
+    },
+    {
+        "address":"420A Weaver Ave",
+        "capacity":1
+    },
+    {
+        "address":"48-06 Rockaway Beach Blvd",
+        "capacity":3
+    },
+    {
+        "address":"14 Brighton Avenue",
+        "capacity":2
+    },
+    {
+        "address":"1189 Castleton Avenue",
+        "capacity":2
+    },
+    {
+        "address":"412 Broadway",
+        "capacity":1
+    },
+    {
+        "address":"875 Jewett Avenue",
+        "capacity":2
+    },
+    {
+        "address":"74 Broad Street",
+        "capacity":2
+    },
+    {
+        "address":"3067 Richmond Road",
+        "capacity":2
+    },
+    {
+        "address":"1573 Castleton Avenue",
+        "capacity":2
+    },
+    {
+        "address":"65 Harbor Road",
+        "capacity":1
+    },
+    {
+        "address":"1400 Richmond Avenue",
+        "capacity":2
+    },
+    {
+        "address":"3730 Victory Boulevard",
+        "capacity":2
+    },
+    {
+        "address":"256 Hylan Blvd.",
+        "capacity":2
+    },
+    {
+        "address":"278 McClean Avenue",
+        "capacity":2
+    },
+    {
+        "address":"1850 Clove Road",
+        "capacity":3
+    },
+    {
+        "address":"1592 Richmond Road",
+        "capacity":1
+    },
+    {
+        "address":"256 Nelson Ave.",
+        "capacity":3
+    },
+    {
+        "address":"345 Annadale Road",
+        "capacity":2
+    },
+    {
+        "address":"1560 Drumgoole Road West",
+        "capacity":2
+    },
+    {
+        "address":"7219 Amboy Road",
+        "capacity":2
+    },
+    {
+        "address":"1100 Rossville Ave",
+        "capacity":1
+    },
+    {
+        "address":"305 Front Street",
+        "capacity":1
+    }
+]
