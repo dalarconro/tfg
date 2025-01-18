@@ -1,6 +1,6 @@
 [
 	{
-		"código": "PLGFV01",
+		"codigo": "PLGFV01",
 		"tipo": "renovable",
 		"subtipo": "fotovoltaica",
 		"potencia": 50,
@@ -9,7 +9,7 @@
 		"coste": 15
 	}, 
 	{
-		"código": "PLGHD01",
+		"codigo": "PLGHD01",
 		"tipo": "renovable",
 		"subtipo": "hidroelectrica",
 		"embalse_sup": 40,
@@ -22,7 +22,7 @@
 		"coste": 12
 	}, 
 	{
-		"código": "PLGNU01",
+		"codigo": "PLGNU01",
 		"tipo": "limpia",
 		"subtipo": "nuclear",
 		"potencia": 80,
@@ -31,7 +31,7 @@
 		"coste": 18
 	}, 
 	{
-		"código": "PLGEO01",
+		"codigo": "PLGEO01",
 		"tipo": "renovable",
 		"subtipo": "eolica",
 		"potencia": 60,
@@ -40,7 +40,7 @@
 		"coste": 16
 	}, 
 	{
-		"código": "PLGTC01",
+		"codigo": "PLGTC01",
 		"tipo": "no renovable",
 		"subtipo": "carbon",
 		"potencia": 60,
@@ -49,7 +49,7 @@
 		"coste": 25
 	}, 
 	{
-		"código": "PLGEO02",
+		"codigo": "PLGEO02",
 		"tipo": "renovable",
 		"subtipo": "eolica",
 		"potencia": 70,

@@ -1,6 +1,6 @@
 [
 	{
-		"código": "SEC0101",
+		"codigo": "SEC0101",
 		"prioridad": 1,
 		"demanda": 32,
 		"generacion": 2.5,
@@ -9,7 +9,7 @@
 		"estado_bat": 0.8
 	},
 	{
-		"código": "SEC0102",
+		"codigo": "SEC0102",
 		"prioridad": 1,
 		"demanda": 18,
 		"generacion": 0,
@@ -18,7 +18,7 @@
 		"estado_bat": 0
 	},
 	{ 
-		"código": "SEC0201",
+		"codigo": "SEC0201",
 		"prioridad": 2,
 		"demanda": 29,
 		"generacion": 1.5,
@@ -27,7 +27,7 @@
 		"estado_bat": 0.4
 	},
 	{
-		"código": "SEC0202",
+		"codigo": "SEC0202",
 		"prioridad": 2,
 		"demanda": 11,
 		"generacion": 1.5,
@@ -36,7 +36,7 @@
 		"estado_bat": 0.7
 	},
 	{
-		"código":  "SEC0203",
+		"codigo":  "SEC0203",
 		"prioridad": 2,
 		"demanda": 22,
 		"generacion": 0.5,
@@ -45,7 +45,7 @@
 		"estado_bat": 0.6
 	},
 	{
-		"código": "SEC0301",
+		"codigo": "SEC0301",
 		"prioridad": 3,
 		"demanda": 17.1,
 		"generacion": 4.5,
@@ -54,7 +54,7 @@
 		"estado_bat": 0.2
 	},
 	{
-		"código": "SEC0302",
+		"codigo": "SEC0302",
 		"prioridad": 3,
 		"demanda": 8.7,
 		"generacion": 1.2,
@@ -63,7 +63,7 @@
 		"estado_bat": 0
 	},
 	{
-		"código": "SEC0303",
+		"codigo": "SEC0303",
 		"prioridad": 3,
 		"demanda": 26.5,
 		"generacion": 2.5,
@@ -72,7 +72,7 @@
 		"estado_bat": 0.7
 	},
 	{
-		"código": "SEC0304",
+		"codigo": "SEC0304",
 		"prioridad": 3,
 		"demanda": 20.7,
 		"generacion": 0,
@@ -81,7 +81,7 @@
 		"estado_bat": 0
 	},
 	{
-		"código": "SEC0401",
+		"codigo": "SEC0401",
 		"prioridad": 4,
 		"demanda": 13,
 		"generacion": 1.5,
@@ -90,7 +90,7 @@
 		"estado_bat": 0.7
 	},
 	{
-		"código": "SEC0402",
+		"codigo": "SEC0402",
 		"prioridad": 4,
 		"demanda": 19.4,
 		"generacion": 3.5,
@@ -99,7 +99,7 @@
 		"estado_bat": 2.7
 	},
 	{
-		"código": "SEC0403",
+		"codigo": "SEC0403",
 		"prioridad": 4,
 		"demanda": 15.9,
 		"generacion": 0.5,
@@ -108,7 +108,7 @@
 		"estado_bat": 0.3
 	},
 	{
-		"código": "SEC0501",
+		"codigo": "SEC0501",
 		"prioridad": 5,
 		"demanda": 18,
 		"generacion": 1.5,
@@ -117,7 +117,7 @@
 		"estado_bat": 0.8
 	},
 	{
-		"código": "SEC0502",
+		"codigo": "SEC0502",
 		"prioridad": 5,
 		"demanda": 30,
 		"generacion": 2.5,
@@ -126,7 +126,7 @@
 		"estado_bat": 1.1
 	},
 	{
-		"código": "SEC0503"
+		"codigo": "SEC0503"
 		"prioridad": 5,
 		"demanda": 24.4,
 		"generacion": 28.5,
