@@ -4,7 +4,7 @@
 	"secciones": ["SEC0101", "SEC0102", "SEC0201", "SEC0202", "SEC0203", "SEC0301", "SEC0302", "SEC0303", "SEC0304", 
 					"SEC0401", "SEC0402", "SEC0403", "SEC0501", "SEC0502", "SEC0503"],
 	"prioridad_sec": {
-		1: {
+		"1": {
 			"penalizacion": 10000, 
 			"bon_bat_min": 0,
 			"bon_bat_max": 1,
