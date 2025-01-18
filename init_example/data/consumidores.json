@@ -126,7 +126,7 @@
 		"estado_bat": 1.1
 	},
 	{
-		"codigo": "SEC0503"
+		"codigo": "SEC0503",
 		"prioridad": 5,
 		"demanda": 24.4,
 		"generacion": 28.5,
