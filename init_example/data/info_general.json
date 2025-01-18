@@ -11,28 +11,28 @@
 			"bon_red_min": 0,
 			"bon_red_max": 0.1
 		},
-		2: {
+		"2": {
 			"penalizacion": 8000, 
 			"bon_bat_min": 0.75,
 			"bon_bat_max": 1,
 			"bon_red_min": 0,
 			"bon_red_max": 1
 		},
-		3: {
+		"3": {
 			"penalizacion": 6000, 
 			"bon_bat_min": 0,
 			"bon_bat_max": 1,
 			"bon_red_min": 0.5,
 			"bon_red_max": 1
 		},
-		4: {
+		"4": {
 			"penalizacion": 4000, 
 			"bon_bat_min": 0,
 			"bon_bat_max": 1,
 			"bon_red_min": 0,
 			"bon_red_max": 1
 		},
-		5: {
+		"5": {
 			"penalizacion": 2000, 
 			"bon_bat_min": 0.25,
 			"bon_bat_max": 1,
