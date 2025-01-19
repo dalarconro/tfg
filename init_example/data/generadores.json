@@ -42,11 +42,11 @@
 	{
 		"codigo": "PLGTC01",
 		"tipo": "no renovable",
-		"subtipo": "carbon",
+		"subtipo": "gas",
 		"potencia": 60,
 		"capacidad": 60,
 		"min_operativa": 0,
-		"coste": 25
+		"coste": 35
 	}, 
 	{
 		"codigo": "PLGEO02",
