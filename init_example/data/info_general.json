@@ -5,28 +5,36 @@
 					"SEC0401", "SEC0402", "SEC0403", "SEC0501", "SEC0502", "SEC0503"],
 	"prioridad_sec": {
 		"1": {
-			"penalizacion": 10000, 
+			"penalizacion": 10000,
+			"bon_bat": 0.9,
+			"bon_red": 0.1,
 			"bon_bat_min": 0,
 			"bon_bat_max": 1,
 			"bon_red_min": 0,
 			"bon_red_max": 0.1
 		},
 		"2": {
-			"penalizacion": 8000, 
+			"penalizacion": 8000,
+			"bon_bat": 0.7,
+			"bon_red": 0.3,
 			"bon_bat_min": 0.75,
 			"bon_bat_max": 1,
 			"bon_red_min": 0,
 			"bon_red_max": 1
 		},
 		"3": {
-			"penalizacion": 6000, 
+			"penalizacion": 6000,
+			"bon_bat": 0.5,
+			"bon_red": 0.5,
 			"bon_bat_min": 0,
 			"bon_bat_max": 1,
 			"bon_red_min": 0.5,
 			"bon_red_max": 1
 		},
 		"4": {
-			"penalizacion": 4000, 
+			"penalizacion": 4000,
+			"bon_bat": 0.55,
+			"bon_red": 0.45,
 			"bon_bat_min": 0,
 			"bon_bat_max": 1,
 			"bon_red_min": 0,
@@ -34,6 +42,8 @@
 		},
 		"5": {
 			"penalizacion": 2000, 
+			"bon_bat": 0.4,
+			"bon_red": 0.6,
 			"bon_bat_min": 0.25,
 			"bon_bat_max": 1,
 			"bon_red_min": 0,
