@@ -1,0 +1,35 @@
+{
+	"bon_bombeo": 150,
+	"generadores": ["PLGFV01", "PLGHD01", "PLGNU01", "PLGE01", "PLGTC01", "PLGEO02"],
+	"pen_baterias": 2,
+	"pen_contaminante": 100,
+	"prioridad_sec": {
+		"1": {
+			"bon_bat": 1.9,
+			"bon_red": 1.1,
+			"pen_ficticia": 10000
+		},
+		"2": {
+			"bon_bat": 1.75,
+			"bon_red": 0.9,
+			"pen_ficticia": 8000
+		},
+		"3": {
+			"bon_bat": 1.4,
+			"bon_red": 0.9,
+			"pen_ficticia": 6000
+		},
+		"4": {
+			"bon_bat": 1.3,
+			"bon_red": 1.3,
+			"pen_ficticia": 4000
+		},
+		"5": {
+			"bon_bat": 2.15,
+			"bon_red": 0.7,
+			"pen_ficticia": 2000
+		}
+	},
+	"secciones": ["SEC0101", "SEC0102", "SEC0201", "SEC0202", "SEC0203", "SEC0301", "SEC0302", "SEC0303", "SEC0304", "SEC0401", "SEC0402", "SEC0403", "SEC0501", "SEC0502", "SEC0503"],
+	"subestaciones": ["SUBES01", "SUBES02", "SUBES03", "SUBES04"]
+}
